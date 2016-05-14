@@ -16,6 +16,7 @@ public class ProyectoPOO2 {
          System.out.println("Hola mundo");
          System.out.println("Hola");
          System.out.println("HOLI COMPI :D\n");
+         System.out.println("HOLU Fierro pariente\n");
    }
     
 }
