@@ -1,3 +1,4 @@
+//Analizador semantico
 package Semantico;
 
 public class AnalizadorSemantico {
